@@ -1,4 +1,4 @@
-package com.guilherme.strproducer.config.KafkaAdminConfig;
+package com.guilherme.strproducer.config;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.admin.AdminClientConfig;
