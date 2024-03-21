@@ -3,5 +3,5 @@ server:
 
 spring:
   kafka:
-    producer:
+    consumer:
       bootstrap-servers: localhost:29092
