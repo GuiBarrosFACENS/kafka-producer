@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.guilherme</groupId>
-    <artifactId>payment-service</artifactId>
+    <artifactId>json-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>payment-service</name>
-    <description>payment-service</description>
+    <name>json-consumer</name>
+    <description>json-consumer</description>
     <properties>
         <java.version>17</java.version>
     </properties>

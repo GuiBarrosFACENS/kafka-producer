@@ -1,8 +1,8 @@
 package com.guilherme.paymentservice.resource.impl;
 
 import com.guilherme.paymentservice.model.Payment;
-import com.guilherme.paymentservice.resource.PaymentResource;
 import com.guilherme.paymentservice.service.PaymentService;
+import com.guilherme.paymentservice.resource.PaymentResource;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -22,4 +22,3 @@ public class PaymentResourceImpl implements PaymentResource {
         return ResponseEntity.status(HttpStatus.CREATED).build();
     }
 }
-

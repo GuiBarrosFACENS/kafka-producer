@@ -6,4 +6,3 @@ public interface PaymentService {
 
     void sendPayment(Payment payment);
 }
-
