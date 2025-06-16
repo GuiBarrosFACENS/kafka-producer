@@ -20,6 +20,7 @@ import java.util.Objects;
 @Log4j2
 public class StringConsumerConfig {
 
+    //Kafka producer
     private final KafkaProperties properties;
 
     @Bean
